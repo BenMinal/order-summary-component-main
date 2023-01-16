@@ -78,9 +78,9 @@ body {
   place-content: center;
   font-family: var(--ff-base);
   background-color:	#E0E9FE;
-  background-image: url("images/pattern-background-desktop.svg") ;
+  background-image: url("images/pattern-background-desktop.svg");
   background-position: center top;
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
 }
 
 @media only screen and (max-width: 375px) {
